@@ -1,0 +1,46 @@
+#movies img,
+#movie img {
+    width: 100%;
+}
+#movies h5,
+#movie h5 {
+    color: white;
+}
+#movie h2,
+#movie h2 {
+    color: white;
+}
+.info h3{
+    color: white;
+}
+.info {
+    color: white;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+#movies .col-md-3 .well {
+    background-color: #ffffff29;
+}
+.margin-top{
+    margin: 0 0 0.4em 0.9em;
+}
+body{
+    background-color: black;
+}
+.list-group-item{
+    background-color: #ffffff1f !important;
+    color: #fff;
+}
+.list-group-item > * {
+    color: #fff !important;
+}
+@media(min-width:960px) {
+    #movies .col-md-3 .well {
+        height: 390px;
+        background-color: #ffffff29;
+    }
+
+    #movies .col-md-3 img {
+        height: 240px;
+    }
+}
