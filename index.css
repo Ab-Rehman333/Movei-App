@@ -81,3 +81,6 @@ body {
     padding-bottom: 2em;
   }
 }
+li.list-group-item {
+  color: #ee7718;
+}
